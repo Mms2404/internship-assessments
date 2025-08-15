@@ -1,3 +1,4 @@
+Internship
 # Flutter biometric_auth
 
 This Flutter app demonstrates secure biometric and device credential authentication using fingerprint, face recognition, or PIN/password. It uses `local_auth` package for authentication and `flutter_secure_storage` to store tokens securely .
