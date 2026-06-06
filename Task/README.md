@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/79465373-a6bc-4286-ac81-be0130628a8f
-
 Internship
 # Project Structure 
 
